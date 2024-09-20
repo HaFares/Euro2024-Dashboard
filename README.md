@@ -25,10 +25,14 @@ This project showcases an in-depth analysis of the Euro 2024 football championsh
 ## ● About Competition:
 This section provides an overview of the Euro 2024 tournament, featuring key statistics such as the number of participating teams, matches played, and number of Players participatings...
 
-● About Teams: The About Teams section offers detailed statistics for each team participating in Euro 2024.
+## ● About Teams: 
+The About Teams section offers detailed statistics for each team participating in Euro 2024.
 
-● About Players: The About Players section provides an in-depth analysis of individual player performance in Euro 2024. Users can explore key metrics such as goals scored, assists, pass accuracy, and defensive contributions. This section also includes interactive radar charts, allowing users to compare players across multiple performance dimensions, helping to identify standout performers and analyze their impact on the tournament.
+## ● About Players:
+The About Players section provides an in-depth analysis of individual player performance in Euro 2024. Users can explore key metrics such as goals scored, assists, pass accuracy, and defensive contributions. This section also includes interactive radar charts, allowing users to compare players across multiple performance dimensions, helping to identify standout performers and analyze their impact on the tournament.
 
-●About Goalkeepers: This section focuses on the performance of goalkeepers in Euro 2024. It highlights key statistics such as saves made, clean sheets, goals conceded, and save percentages. This section allows users to compare goalkeepers based on their contributions to their teams' defensive efforts, providing a comprehensive view of their effectiveness throughout the tournament.
+## ●About Goalkeepers: 
+This section focuses on the performance of goalkeepers in Euro 2024. It highlights key statistics such as saves made, clean sheets, goals conceded, and save percentages. This section allows users to compare goalkeepers based on their contributions to their teams' defensive efforts, providing a comprehensive view of their effectiveness throughout the tournament.
 
-● Data Filtering: Filters for team, player, and Goalkeeper, allowing in-depth exploration of individual player,Goalkeeper and team performance.
+## ● Data Filtering:
+Filters for team, player, and Goalkeeper, allowing in-depth exploration of individual player,Goalkeeper and team performance.
