@@ -22,7 +22,7 @@ This project showcases an in-depth analysis of the Euro 2024 football championsh
 
 ## Key Features
 
-● ### About Competition:This section provides an overview of the Euro 2024 tournament, featuring key statistics such as the number of participating teams, matches played, and number of Players participatings...
+● ## About Competition:This section provides an overview of the Euro 2024 tournament, featuring key statistics such as the number of participating teams, matches played, and number of Players participatings...
 
 ● About Teams: The About Teams section offers detailed statistics for each team participating in Euro 2024.
 
