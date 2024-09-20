@@ -5,7 +5,11 @@ This project showcases an in-depth analysis of the Euro 2024 football championsh
 ● Data Collection: The dataset was scraped from a public football statistics website using Python.
 
 ● Data Cleaning: After scraping, the data was cleaned and processed using Power BI and Python. This included removing duplicates, handling missing data, and transforming raw stats into useful insights.
+
+!![Competetion Stats](<img width="671" alt="About Competetion" src="https://github.com/user-attachments/assets/108dc064-900a-4614-984d-bb8832cec2f2">)
+
 ## Key Features
+
 ● About Competition:This section provides an overview of the Euro 2024 tournament, featuring key statistics such as the number of participating teams, matches played, and number of Players participatings...
 
 ● About Teams: The About Teams section offers detailed statistics for each team participating in Euro 2024.
