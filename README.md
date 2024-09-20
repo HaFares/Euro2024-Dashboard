@@ -6,7 +6,8 @@ This project showcases an in-depth analysis of the Euro 2024 football championsh
 
 ● Data Cleaning: After scraping, the data was cleaned and processed using Power BI and Python. This included removing duplicates, handling missing data, and transforming raw stats into useful insights.
 
-![Competetion Stats]<img width="671" alt="About Competetion" src="https://github.com/user-attachments/assets/636c9a8d-571c-48df-9231-5dc1052c8e4a">
+## Competetion Stats
+<img width="671" alt="About Competetion" src="https://github.com/user-attachments/assets/636c9a8d-571c-48df-9231-5dc1052c8e4a">
 
 ## Key Features
 
