@@ -24,7 +24,6 @@ The dataset was scraped from : https://fbref.com/fr/comps/676/Statistiques-UEFA-
 The data was cleaned and processed using Power BI and Python.
 
 ## 👉 Visualizations
-
 ## About  Competition
 <img width="671" alt="About Competetion" src="https://github.com/user-attachments/assets/636c9a8d-571c-48df-9231-5dc1052c8e4a">
 
