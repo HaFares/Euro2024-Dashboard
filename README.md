@@ -3,13 +3,13 @@
 This project showcases an in-depth analysis of the Euro 2024 football championship using Power BI. The dashboard is divided into four main sections: About Competition, About Teams, About Players, and About Goalkeepers. It provides an interactive way to explore various statistics, including team performances, player metrics, and goalkeeper evaluations. The data was scraped from a football statistics website, processed, and cleaned using both Python and Power BI.
 
 ## 👉 Datasets 
-## ● `Teams_Stats.csv` :
+● `Teams_Stats.csv` :
 This dataset contains detailed statistics for all participating teams in Euro 2024. It includes metrics related to team performance, such as  defensive and attacking stats. The data provides a comprehensive view of how each team performed throughout the tournament.
 
-## ● `Players_Stats.csv`
+● `Players_Stats.csv`
 The Players Stats dataset offers in-depth individual performance data for all players in Euro 2024. It includes key statistics,Attacking and defensive contributions. This dataset helps analyze player impact, compare performances, and identify standout individuals across various roles.
 
-## ●  `Goalkeepers_Stats.csv`
+●  `Goalkeepers_Stats.csv`
 This dataset focuses on the performance of goalkeepers, including metrics such as saves made, clean sheets, goals conceded, and save percentages... , It provides a detailed look at how each goalkeeper contributed to their team’s defensive efforts throughout the tournament.
 
 ## 👉 Data Collection & Processing
