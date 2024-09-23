@@ -1,6 +1,6 @@
-# Euro2024 Dashboard-Power BI 📊⚽
-
 ![EURO LOGO](https://github.com/user-attachments/assets/6f0d81e1-4260-410c-9b36-7305efa2c7b9)
+
+# Euro2024 Dashboard-Power BI 📊⚽
 
 ## 👉 Project Overview
 
