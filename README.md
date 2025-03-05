@@ -19,10 +19,11 @@ This dataset focuses on the performance of goalkeepers, including metrics such a
 ## 👉 Data Collection & Processing
 
 ## ● Teams stats :
-From https://www.kaggle.com/datasets/ansari1212/uefa-euro-2024-country-wise-statistics and  https://fr.uefa.com/euro2024/statistics/teams/
+https://www.kaggle.com/datasets/ansari1212/uefa-euro-2024-country-wise-statistics 
+https://fr.uefa.com/euro2024/statistics/teams/
 
 ## ● Players and Goalkeepers stats :
-The dataset was scraped from : https://fbref.com/fr/comps/676/Statistiques-UEFA-Euro  using Python.
+The dataset was scraped from : https://fbref.com/fr/comps/676/Statistiques-UEFA-Euro.
 
 ## ● Data Processing: 
 The data was cleaned and processed using Power BI and Python.
